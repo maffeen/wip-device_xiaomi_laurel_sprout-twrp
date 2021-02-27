@@ -23,5 +23,5 @@ git clone https://github.com/maffeen/device_xiaomi_laurel_sprout-twrp device/xia
 5. Lastly, run these commands to build the TWRP:
 
 ```bash
-. build/envsetup.sh; lunch omni_laurel_sprout-eng; mka recoveryimage
+. build/envsetup.sh; lunch omni_laurel_sprout-eng; mka bootimage
 ```
